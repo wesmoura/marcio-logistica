@@ -9,9 +9,6 @@
 Existem várias formas de editar sua aplicação.
 
 
-Basta visitar o [Projeto no Lovable](https://lovable.dev/projects/8722cb9c-8a55-4eea-bd74-8cfc4ecfff45) e começar a enviar comandos.
-
-
 ### **Usar seu IDE preferido**
 
 Se preferir trabalhar localmente usando seu próprio ambiente de desenvolvimento (IDE), você pode clonar este repositório e enviar (push) as alterações. Essas alterações também serão refletidas no Lovable.
