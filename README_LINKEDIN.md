@@ -108,50 +108,12 @@ npm install
 # Copie .env.example para .env.local e adicione suas credenciais
 ```
 
-### Desenvolvimento
-
-```bash
-# Inicie o servidor de desenvolvimento
-bun run dev
-# ou
-npm run dev
-
-# A aplicação estará disponível em http://localhost:5173
-```
-
-### Build para Produção
-
-```bash
-# Crie um build otimizado
-bun run build
-# ou
-npm run build
-
-# Visualize o build
-bun run preview
-```
-
 ## 🔌 Integração com Supabase
 
-A aplicação está conectada ao Supabase com as seguintes credenciais de projeto:
+A aplicação está conectada ao Supabase (PostgreSQL em nuvem) com as seguintes credenciais:
 
 - **Project ID**: `czmcecbespcgfzugbayx`
 - **URL**: `https://czmcecbespcgfzugbayx.supabase.co`
-
-### Configuração Local
-
-Para trabalhar com Supabase localmente:
-
-```bash
-# Instale a CLI do Supabase
-npm install -g supabase
-
-# Inicie o Supabase localmente
-supabase start
-
-# Aplique o schema
-supabase db push
-```
 
 ## 📁 Estrutura do Projeto
 
