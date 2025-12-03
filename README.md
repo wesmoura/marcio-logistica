@@ -76,11 +76,9 @@ A aplicação está conectada ao Supabase (PostgreSQL em nuvem) com:
 
 ## 📞 Contato
 
-Desenvolvido com ❤️ para otimizar sua operação logística.
 
 **Tecnologias**: React • TypeScript • Vite • Tailwind CSS • Supabase • PostgreSQL
 
-Sim, pode!
 
 Para conectar um domínio, vá para **Project > Settings > Domains** e clique em **Connect Domain**.
 
