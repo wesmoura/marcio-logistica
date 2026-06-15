@@ -162,11 +162,6 @@ supabase/
 
 Este é um projeto em desenvolvimento. Melhorias e feedback são bem-vindos!
 
-## 📞 Contato
-
-Desenvolvido com ❤️ para otimizar sua operação logística.
-
----
 
 **Tecnologias**: React • TypeScript • Vite • Tailwind CSS • Supabase • PostgreSQL
 
