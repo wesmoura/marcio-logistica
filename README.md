@@ -80,10 +80,6 @@ A aplicação está conectada ao Supabase (PostgreSQL em nuvem) com:
 **Tecnologias**: React • TypeScript • Vite • Tailwind CSS • Supabase • PostgreSQL
 
 
-Para conectar um domínio, vá para **Project > Settings > Domains** e clique em **Connect Domain**.
-
-Leia mais aqui: [Configurando um domínio personalizado](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-
 ---
 
 Se precisar de ajuda com algum dos comandos ou etapas, posso te orientar!
